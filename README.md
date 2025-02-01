@@ -32,7 +32,7 @@ The **BloodMNIST** dataset, part of the MedMNIST collection, contains:
 
 ## Results
 Each model was evaluated using the test set, and performance metrics such as accuracy, precision, recall, and F1-score were calculated to compare the models.
-
+![Alt Text](images/example.png)
 
 ## Motivation
 The motivation for this project was to improve medical workflows by leveraging deep learning for automated blood cell classification, ultimately reducing diagnostic errors and enhancing patient care.
