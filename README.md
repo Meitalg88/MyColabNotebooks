@@ -32,7 +32,7 @@ The **BloodMNIST** dataset, part of the MedMNIST collection, contains:
 
 ## Results
 Each model was evaluated using the test set, and performance metrics such as accuracy, precision, recall, and F1-score were calculated to compare the models.
-![Alt Text](צילום מסך 2025-02-01 144452.png)
+![Alt Text]([צילום מסך 2025-02-01 144452.png](https://github.com/Meitalg88/Image/blob/4e60491ec8ab5290660c6a3b0dafadc7e01511cb/%D7%A6%D7%99%D7%9C%D7%95%D7%9D%20%D7%9E%D7%A1%D7%9A%202025-02-01%20144452.png))
 
 
 ## Motivation
