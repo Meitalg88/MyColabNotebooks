@@ -36,7 +36,10 @@ Each model was evaluated using the test set, and performance metrics such as acc
 ## Motivation
 The motivation for this project was to improve medical workflows by leveraging deep learning for automated blood cell classification, ultimately reducing diagnostic errors and enhancing patient care.
 
-## Usage
-1. Clone this repository.
-2. Install the required libraries from `requirements.txt`.
-3. Run the scripts for training and evaluation located in the `models` folder.
+### Usage  
+
+There are three files, one for each model:  
+
+1. **DenseNet121** - To run this model, you must download the **BloodMNIST** zip file.  
+2. **ResNet50** - Automatically loads the dataset at the beginning of the code (no need to download any file).  
+3. **CNN** - Automatically loads the dataset at the beginning of the code.  
